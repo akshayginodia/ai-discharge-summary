@@ -5,6 +5,7 @@ import os
 import tempfile
 import logging
 import re
+import imageio_ffmpeg as ffmpeg
 import json
 from openai import OpenAI, OpenAIError
 
@@ -53,6 +54,9 @@ SUMMARY_SECTIONS_ORDERED = [
     "Follow-up",
     "Provider Information"
 ]
+
+# Point the ffmpeg wrapper at the vendored binary
+os.environ["FFMPEG_BINARY"] = ffmpeg.get_ffmpeg_exe()
 
 # --- Core Functions ---
 

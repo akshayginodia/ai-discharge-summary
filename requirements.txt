@@ -3,3 +3,4 @@ pandas
 openai-whisper
 openai
 audio-recorder-streamlit
+imageio-ffmpeg
