@@ -1,0 +1,46 @@
+VisitID,PatientID,AdmissionDate,DischargeDate,AdmissionSource,AdmissionType,Department,AdmissionDiagnosis,DischargingPhysicianID
+VISIT001,PAT002,2024-11-10,2024-11-15,Emergency Dept,Emergency,General Medicine,Pneumonia,DR101
+VISIT002,PAT004,2024-11-12,2024-11-18,Clinic Referral,Elective,Orthopedics,"Osteoarthritis - Knee Replacement Prep",DR103
+VISIT003,PAT007,2024-11-20,2024-11-22,Emergency Dept,Emergency,General Medicine,Acute Gastroenteritis,DR101
+VISIT004,PAT011,2024-11-25,2024-12-05,Clinic Referral,Elective,Cardiology,Coronary Artery Disease Evaluation,DR105
+VISIT005,PAT005,2024-12-01,2024-12-04,Emergency Dept,Emergency,Pediatrics,Febrile Seizure,DR104
+VISIT006,PAT014,2024-12-08,2024-12-15,Clinic Referral,Elective,General Surgery,Inguinal Hernia Repair,DR102
+VISIT007,PAT020,2024-12-10,2024-12-16,Clinic Referral,Urgent,General Medicine,Exacerbation of COPD,DR101
+VISIT008,PAT001,2024-12-18,2024-12-21,Clinic Referral,Elective,General Surgery,Cholecystitis Evaluation,DR102
+VISIT009,PAT025,2025-01-05,2025-01-08,Emergency Dept,Emergency,Pediatrics,Bronchiolitis,DR104
+VISIT010,PAT009,2025-01-10,2025-01-14,Clinic Referral,Elective,General Medicine,Diabetes Management Adjustment,DR101
+VISIT011,PAT016,2025-01-15,2025-01-22,Emergency Dept,Emergency,Orthopedics,Tibia Fracture,DR103
+VISIT012,PAT028,2025-01-20,2025-01-23,Emergency Dept,Emergency,General Medicine,Migraine with Aura,DR101
+VISIT013,PAT003,2025-01-25,2025-01-30,Clinic Referral,Elective,Cardiology,Arrhythmia Monitoring,DR105
+VISIT014,PAT013,2025-02-01,2025-02-05,Emergency Dept,Emergency,General Surgery,Appendicitis,DR102
+VISIT015,PAT022,2025-02-08,2025-02-12,Clinic Referral,Elective,General Medicine,Hypertension Follow-up,DR101
+VISIT016,PAT030,2025-02-10,2025-02-18,Emergency Dept,Emergency,Cardiology,"Chest Pain, Rule out MI",DR105
+VISIT017,PAT006,2025-02-15,2025-02-20,Clinic Referral,Elective,Orthopedics,Lower Back Pain Investigation,DR103
+VISIT018,PAT010,2025-02-20,2025-02-22,Emergency Dept,Emergency,Pediatrics,Asthma Exacerbation,DR104
+VISIT019,PAT019,2025-02-25,2025-03-02,Clinic Referral,Elective,General Medicine,Anemia Workup,DR101
+VISIT020,PAT026,2025-03-01,2025-03-08,Emergency Dept,Emergency,General Surgery,Diverticulitis,DR102
+VISIT021,PAT004,2025-03-05,2025-03-15,Direct Admit,Elective,Orthopedics,Total Knee Replacement,DR103
+VISIT022,PAT015,2025-03-10,2025-03-14,Clinic Referral,Elective,Cardiology,Heart Failure Management,DR105
+VISIT023,PAT023,2025-03-12,2025-03-18,Emergency Dept,Emergency,General Medicine,Dehydration,DR101
+VISIT024,PAT008,2025-03-15,2025-03-19,Clinic Referral,Elective,General Surgery,Lipoma Excision,DR102
+VISIT025,PAT017,2025-03-20,2025-03-25,Emergency Dept,Emergency,General Medicine,Urinary Tract Infection,DR101
+VISIT026,PAT029,2025-03-22,2025-03-24,Clinic Referral,Elective,General Surgery,Colonoscopy Screening,DR102
+VISIT027,PAT001,2025-03-25,2025-04-02,Direct Admit,Elective,General Surgery,Cholecystectomy,DR102
+VISIT028,PAT012,2025-03-28,2025-04-03,Emergency Dept,Emergency,Orthopedics,Shoulder Dislocation,DR103
+VISIT029,PAT021,2025-04-01,2025-04-05,Clinic Referral,Elective,General Medicine,Thyroid Function Test Evaluation,DR101
+VISIT030,PAT005,2025-04-03,2025-04-06,Emergency Dept,Emergency,Pediatrics,Viral Fever,DR104
+VISIT031,PAT018,2025-04-05,2025-04-12,Clinic Referral,Elective,Cardiology,Electrophysiology Study,DR105
+VISIT032,PAT027,2025-04-08,2025-04-11,Emergency Dept,Emergency,General Medicine,Cellulitis,DR101
+VISIT033,PAT002,2025-04-10,2025-04-16,Clinic Referral,Elective,General Surgery,Varicose Vein Treatment,DR102
+VISIT034,PAT011,2025-04-12,2025-04-15,Emergency Dept,Emergency,Cardiology,Atrial Fibrillation with RVR,DR105
+VISIT035,PAT024,2025-04-14,2025-04-20,Clinic Referral,Elective,Orthopedics,Carpal Tunnel Release,DR103
+VISIT036,PAT007,2025-04-15,2025-04-19,Self Referral,Urgent,General Medicine,Food Poisoning,DR101
+VISIT037,PAT013,2025-04-16,2025-04-18,Clinic Referral,Elective,General Surgery,Endoscopy,DR102
+VISIT038,PAT020,2025-04-18,2025-04-25,Emergency Dept,Emergency,General Medicine,"Pneumonia, Recurrent",DR101
+VISIT039,PAT025,2025-04-20,2025-04-22,Emergency Dept,Emergency,Pediatrics,Croup,DR104
+VISIT040,PAT009,2025-04-21,2025-04-24,Clinic Referral,Elective,General Medicine,"Routine Checkup - Diabetic Complications",DR101
+VISIT041,PAT016,2025-04-22,2025-04-28,Clinic Referral,Elective,Orthopedics,"Follow-up post Tibia Fracture",DR103
+VISIT042,PAT030,2025-04-23,2025-04-27,Clinic Referral,Elective,Cardiology,"Post-MI Follow-up & Rehab Planning",DR105
+VISIT043,PAT003,2025-04-24,2025-04-28,Emergency Dept,Emergency,Cardiology,Syncope Evaluation,DR105
+VISIT044,PAT010,2025-04-25,2025-04-28,Clinic Referral,Elective,Pediatrics,Allergy Testing,DR104
+VISIT045,PAT019,2025-04-26,2025-04-29,Clinic Referral,Urgent,General Medicine,Dizziness Workup,DR101

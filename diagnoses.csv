@@ -1,0 +1,63 @@
+DiagnosisID,VisitID,PatientID,DiagnosisCode,DiagnosisDescription,DiagnosisType,DateOfDiagnosis,DiagnosingProviderID
+DIAG001,VISIT001,PAT002,J18.9,"Pneumonia, unspecified organism",Primary Discharge,2024-11-14,DR101
+DIAG002,VISIT001,PAT002,I10,"Essential (primary) hypertension",Secondary Discharge,2024-11-14,DR101
+DIAG003,VISIT002,PAT004,M17.11,"Unilateral primary osteoarthritis, right knee",Admitting,2024-11-12,DR103
+DIAG004,VISIT002,PAT004,I10,"Essential (primary) hypertension",Secondary Discharge,2024-11-18,DR103
+DIAG005,VISIT003,PAT007,A09,"Infectious gastroenteritis and colitis",Primary Discharge,2024-11-21,DR101
+DIAG006,VISIT003,PAT007,E86.0,Dehydration,Secondary Discharge,2024-11-21,DR101
+DIAG007,VISIT004,PAT011,I25.10,"Atherosclerotic heart disease",Primary Discharge,2024-12-04,DR105
+DIAG008,VISIT004,PAT011,E78.5,"Hyperlipidemia, unspecified",Secondary Discharge,2024-12-04,DR105
+DIAG009,VISIT005,PAT005,R56.00,"Simple febrile seizure",Primary Discharge,2024-12-03,DR104
+DIAG010,VISIT006,PAT014,K40.90,"Unilateral inguinal hernia, w/o obstruction",Primary Discharge,2024-12-14,DR102
+DIAG011,VISIT007,PAT020,J44.1,"COPD with acute exacerbation",Primary Discharge,2024-12-15,DR101
+DIAG012,VISIT007,PAT020,Z87.891,"History of nicotine dependence",Secondary Discharge,2024-12-15,DR101
+DIAG013,VISIT008,PAT001,K81.0,"Acute cholecystitis without calculus",Primary Discharge,2024-12-20,DR102
+DIAG014,VISIT009,PAT025,J21.9,"Acute bronchiolitis, unspecified",Primary Discharge,2025-01-07,DR104
+DIAG015,VISIT010,PAT009,E11.9,"Type 2 diabetes mellitus w/o complications",Primary Discharge,2025-01-13,DR101
+DIAG016,VISIT011,PAT016,S82.20XA,"Unspecified fracture of shaft of tibia",Primary Discharge,2025-01-21,DR103
+DIAG017,VISIT012,PAT028,G43.109,"Migraine with aura, not intractable",Primary Discharge,2025-01-22,DR101
+DIAG018,VISIT013,PAT003,I49.9,"Cardiac arrhythmia, unspecified",Primary Discharge,2025-01-29,DR105
+DIAG019,VISIT013,PAT003,I10,"Essential (primary) hypertension",Secondary Discharge,2025-01-29,DR105
+DIAG020,VISIT014,PAT013,K35.80,"Acute appendicitis without perforation",Primary Discharge,2025-02-04,DR102
+DIAG021,VISIT015,PAT022,I10,"Essential (primary) hypertension",Primary Discharge,2025-02-11,DR101
+DIAG022,VISIT016,PAT030,I20.0,"Unstable angina",Primary Discharge,2025-02-17,DR105
+DIAG023,VISIT016,PAT030,I25.10,"Atherosclerotic heart disease",Secondary Discharge,2025-02-17,DR105
+DIAG024,VISIT017,PAT006,M54.5,"Low back pain",Primary Discharge,2025-02-19,DR103
+DIAG025,VISIT018,PAT010,J45.901,"Asthma with (acute) exacerbation",Primary Discharge,2025-02-21,DR104
+DIAG026,VISIT019,PAT019,D64.9,"Anemia, unspecified",Primary Discharge,2025-03-01,DR101
+DIAG027,VISIT020,PAT026,K57.30,"Diverticulitis of large intestine w/o perforation",Primary Discharge,2025-03-07,DR102
+DIAG028,VISIT021,PAT004,M17.11,"Unilateral primary osteoarthritis, right knee",Admitting,2025-03-05,DR103
+DIAG029,VISIT021,PAT004,Z96.651,"Presence of right artificial knee joint",Primary Discharge,2025-03-14,DR103
+DIAG030,VISIT021,PAT004,I10,"Essential (primary) hypertension",Secondary Discharge,2025-03-14,DR103
+DIAG031,VISIT022,PAT015,I50.9,"Heart failure, unspecified",Primary Discharge,2025-03-13,DR105
+DIAG032,VISIT023,PAT023,E86.0,Dehydration,Primary Discharge,2025-03-17,DR101
+DIAG033,VISIT024,PAT008,D17.9,"Benign lipomatous neoplasm, unspecified",Primary Discharge,2025-03-18,DR102
+DIAG034,VISIT025,PAT017,N39.0,"Urinary tract infection, site not specified",Primary Discharge,2025-03-24,DR101
+DIAG035,VISIT026,PAT029,Z12.11,"Encounter for screening colonoscopy",Primary Discharge,2025-03-23,DR102
+DIAG036,VISIT027,PAT001,K80.20,"Cholecystitis w/o cholelithiasis",Admitting,2025-03-25,DR102
+DIAG037,VISIT027,PAT001,Z90.49,"Acquired absence of other specified organ",Primary Discharge,2025-04-01,DR102
+DIAG038,VISIT028,PAT012,S43.004A,"Unspecified subluxation of right shoulder joint",Primary Discharge,2025-04-02,DR103
+DIAG039,VISIT029,PAT021,E03.9,"Hypothyroidism, unspecified",Primary Discharge,2025-04-04,DR101
+DIAG040,VISIT030,PAT005,R50.9,"Fever, unspecified",Primary Discharge,2025-04-05,DR104
+DIAG041,VISIT031,PAT018,I48.91,"Unspecified atrial fibrillation",Primary Discharge,2025-04-11,DR105
+DIAG042,VISIT032,PAT027,L03.115,"Cellulitis of right lower limb",Primary Discharge,2025-04-10,DR101
+DIAG043,VISIT033,PAT002,I83.90,"Varicose veins of unspecified lower extremity",Primary Discharge,2025-04-15,DR102
+DIAG044,VISIT034,PAT011,I48.2,"Chronic atrial fibrillation",Primary Discharge,2025-04-14,DR105
+DIAG045,VISIT034,PAT011,I50.9,"Heart failure, unspecified",Secondary Discharge,2025-04-14,DR105
+DIAG046,VISIT035,PAT024,G56.01,"Carpal tunnel syndrome, right upper limb",Primary Discharge,2025-04-19,DR103
+DIAG047,VISIT036,PAT007,A05.9,"Bacterial foodborne intoxication, unspecified",Primary Discharge,2025-04-18,DR101
+DIAG048,VISIT037,PAT013,K21.9,"GERD without esophagitis",Secondary Discharge,2025-04-17,DR102
+DIAG049,VISIT037,PAT013,K29.70,"Gastritis, unspecified, without bleeding",Primary Discharge,2025-04-17,DR102
+DIAG050,VISIT038,PAT020,J18.9,"Pneumonia, unspecified organism",Primary Discharge,2025-04-24,DR101
+DIAG051,VISIT038,PAT020,J44.0,"COPD with acute lower respiratory infection",Secondary Discharge,2025-04-24,DR101
+DIAG052,VISIT039,PAT025,J05.0,"Acute obstructive laryngitis [croup]",Primary Discharge,2025-04-21,DR104
+DIAG053,VISIT040,PAT009,E11.65,"Type 2 diabetes mellitus with hyperglycemia",Primary Discharge,2025-04-23,DR101
+DIAG054,VISIT040,PAT009,E11.40,"Type 2 diabetes mellitus with diabetic neuropathy",Secondary Discharge,2025-04-23,DR101
+DIAG055,VISIT041,PAT016,Z47.1,"Aftercare involving removal of fracture plate",Primary Discharge,2025-04-27,DR103
+DIAG056,VISIT042,PAT030,I21.3,"ST elevation (STEMI) myocardial infarction",Admitting,2025-02-10,DR105
+DIAG057,VISIT042,PAT030,Z51.89,"Encounter for other specified aftercare",Primary Discharge,2025-04-26,DR105
+DIAG058,VISIT043,PAT003,R55,"Syncope and collapse",Primary Discharge,2025-04-27,DR105
+DIAG059,VISIT043,PAT003,I49.9,"Cardiac arrhythmia, unspecified",Secondary Discharge,2025-04-27,DR105
+DIAG060,VISIT044,PAT010,Z01.83,"Encounter for allergy testing",Primary Discharge,2025-04-27,DR104
+DIAG061,VISIT045,PAT019,R42,"Dizziness and giddiness",Primary Discharge,2025-04-28,DR101
+DIAG062,VISIT045,PAT019,H81.10,"Benign paroxysmal vertigo, unspecified",Secondary Discharge,2025-04-28,DR101

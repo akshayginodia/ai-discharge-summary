@@ -1,0 +1,24 @@
+ProcedureID,VisitID,PatientID,ProcedureCode,ProcedureName,ProcedureDate,PerformingPhysicianID
+PROC001,VISIT004,PAT011,93458,"Cardiac Catheterization",2024-11-28,DR105
+PROC002,VISIT006,PAT014,49505,"Repair initial inguinal hernia",2024-12-10,DR102
+PROC003,VISIT011,PAT016,27759,"Open treatment of tibial shaft fracture",2025-01-16,DR103
+PROC004,VISIT013,PAT003,93650,"Intracardiac electrophysiologic study",2025-01-27,DR105
+PROC005,VISIT014,PAT013,44970,"Laparoscopy, surgical appendectomy",2025-02-02,DR102
+PROC006,VISIT016,PAT030,92928,"Percutaneous transcatheter placement of intracoronary stent(s)",2025-02-12,DR114
+PROC007,VISIT021,PAT004,27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",2025-03-06,DR103
+PROC008,VISIT024,PAT008,11400,"Excision, benign lesion",2025-03-16,DR109
+PROC009,VISIT026,PAT029,45378,"Colonoscopy, flexible; diagnostic",2025-03-23,DR108
+PROC010,VISIT027,PAT001,47562,"Laparoscopy, surgical; cholecystectomy",2025-03-26,DR102
+PROC011,VISIT028,PAT012,23650,"Closed treatment of shoulder dislocation; without manipulation",2025-03-28,DR110
+PROC012,VISIT031,PAT018,93650,"Intracardiac electrophysiologic study",2025-04-07,DR115
+PROC013,VISIT033,PAT002,37722,"Ligation, division, and stripping, long saphenous veins",2025-04-11,DR109
+PROC014,VISIT035,PAT024,64721,"Neuroplasty and/or transposition; median nerve at carpal tunnel",2025-04-15,DR111
+PROC015,VISIT037,PAT013,43235,"Upper GI endoscopy, diagnostic",2025-04-17,DR108
+PROC016,VISIT041,PAT016,20680,"Removal of implant; deep (eg, buried wire, pin, screw, metal band, nail, rod or plate)",2025-04-23,DR103
+PROC017,VISIT044,PAT010,95004,"Percutaneous tests (scratch, puncture, prick) with allergenic extracts",2025-04-26,DR112
+PROC018,VISIT001,PAT002,31622,"Bronchoscopy, diagnostic",2024-11-12,DR106
+PROC019,VISIT017,PAT006,62321,"Injection(s), of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural",2025-02-17,DR110
+PROC020,VISIT019,PAT019,38221,"Bone marrow; biopsy, needle or trocar",2025-02-27,DR107
+PROC021,VISIT032,PAT027,10060,"Incision and drainage of abscess",2025-04-09,DR108
+PROC022,VISIT034,PAT011,92960,"Cardioversion, elective, electrical conversion of arrhythmia",2025-04-13,DR114
+PROC023,VISIT038,PAT020,31622,"Bronchoscopy, diagnostic",2025-04-20,DR106
